@@ -1,0 +1,24 @@
+-- Copyright 2013 Arman Darini
+
+settings = {	
+	orientation = {
+		default = "portrait",
+		supported = { "portrait", }
+	},
+	
+	iphone = {
+		plist = {
+			UIStatusBarHidden = false,
+			UIPrerenderedIcon = false,
+		}
+	},
+
+  android =
+  {
+      versionCode = "10101",
+      usesPermissions =
+      {
+          "android.permission.INTERNET",
+      },
+  },
+}
