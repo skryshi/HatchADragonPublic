@@ -1,6 +1,15 @@
+License for art, sounds and music:
+
+All rights reserved by the respective copyright holders.
+Art, sounds and music are for your personal use only.
+
+=====================================================
+
+License for code and documentation:
+																	
 The MIT License (MIT)
 
-Copyright (c) {{year}} {{fullname}}
+Copyright (c) 2013 Arman Darini
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
@@ -18,3 +27,4 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
